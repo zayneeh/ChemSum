@@ -11,7 +11,7 @@ The ChemEng Paper Summarizer is an NLP-based tool designed to facilitate the rev
 
 ## Audio Functionality
 ### Text-to-Speech Output
-ChemSum now supports text-to-speech (TTS) functionality, allowing users to listen to summaries of chemical engineering papers. This feature is designed to aid users who prefer auditory learning.
+ChemSum now supports text-to-speech (TTS) functionality, allowing users to listen to summaries of chemical engineering papers. This feature is designed to aid users who prefer auditory learning. This feature was specifically made for the inclusivity of the visually impaired.
 
 #### Supported Features:
 - **Audio Output of Summaries**: Convert text summaries into spoken audio using advanced TTS technology.
